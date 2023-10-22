@@ -1,0 +1,25 @@
+Interesting book:
+  https://link.springer.com/book/10.1007/978-3-030-91779-1
+  https://www.stefansarkadi.com/research.html
+
+Method of Deception detection:
+  -https://www.sciencedirect.com/science/article/pii/S0950705123001727
+
+Interesting project: 
+  https://github.com/LinkSoul-AI/AutoAgents
+
+Use Tattle Tale as Story Planner: 
+  https://icaps22.icaps-conference.org/workshops/SPARK/papers/spark2022_paper_2.pdf
+
+Paper: 
+  https://arxiv.org/pdf/2309.17288v1.pdf
+
+In what context could we apply deceptive storytelling?
+  https://writersblockmagazine.com/2022/05/23/artificial-intelligence-and-the-future-of-storytelling/
+Ways to evaluate how deceptive the story is.
+Useful articles and ideas:
+  https://www.unite.ai/best-ai-story-generators/
+Deceptive Storytelling in Artificial Dialogue Games: 
+  https://kclpure.kcl.ac.uk/portal/en/publications/deceptive-storytelling-in-artificial-dialogue-games
+Strategically Misleading the User: Building a Deceptive Virtual Suspect: 
+  https://www.ifaamas.org/Proceedings/aamas2017/pdfs/p1711.pdf 
