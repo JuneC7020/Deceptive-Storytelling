@@ -3,7 +3,7 @@ import autogen
 config_list = [
     {
         'model': 'gpt-4',
-        'api_key': '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'
+        'api_key': 'sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
     }
 ]
 
