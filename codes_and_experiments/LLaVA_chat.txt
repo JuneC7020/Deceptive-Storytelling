@@ -1,0 +1,19 @@
+User: What is deception?
+
+LLaVA: Deception is the act of misleading someone by presenting false information or hiding the truth. It can take many forms, such as lying, concealing information, or manipulating someone's perception of reality. Deception can be used for various purposes, including personal gain, self-defense, or even as a form of entertainment. However, it is generally considered to be unethical and can damage relationships and trust between individuals.
+
+User: please write me a example of deceptive storytelling
+
+LLaVA: Here is an example of deceptive storytelling:
+
+Once upon a time, there was a poor farmer who lived in a small village. One day, a wealthy merchant visited the village and offered to buy the farmer's prized horse for a large sum of money. The farmer was tempted by the offer and agreed to sell the horse.
+
+However, the merchant had no intention of keeping his end of the bargain. Instead, he rode the horse out of the village and disappeared, leaving the farmer without his beloved animal.
+
+Feeling cheated and desperate for money, the farmer decided to concoct a story about the horse's whereabouts. He told everyone in the village that the horse had run away and was lost forever.
+
+The villagers were saddened by the news, but they also felt sympathy for the farmer. To help him out, they organized a search party to find the missing horse.
+
+As luck would have it, the horse was found wandering nearby, and the villagers returned it to the farmer. However, the farmer kept the true story of the horse's disappearance to himself, allowing the villagers to believe that it had run away.
+
+In this example, the farmer has deceived the villagers by presenting a false story about the horse's whereabouts. He has hidden the truth in order to gain sympathy and help from the villagers, while also keeping the merchant's deception a secret.
